@@ -1,6 +1,0 @@
-num1 = int(input("enter  first number:\n"))
-num2 = int(input("enter secound number:\n"))
-print("addition",num1+num2)
-print("substaction",num1-num2)      
-print("multiplication",num1*num2)
-print("modules",num1/num2)      
