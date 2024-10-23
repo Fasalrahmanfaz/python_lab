@@ -1,0 +1,12 @@
+lst = [1,2,5,4,6,7,8,9]
+print(lst)
+max_value = max(lst)
+print("maximum value",max_value)
+min_value = min(lst)
+print("minimum value",min_value)
+srt=sorted(lst)
+print("sorted",srt)
+lst.reverse()
+print("reverse",lst)
+count_list = len(lst)
+print("count",count_list) 
